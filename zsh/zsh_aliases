@@ -1,0 +1,6 @@
+alias cdvar="cd /var/www/html" 
+alias resource="source ~/.zshrc" 
+alias editaliases="vi ~/.zsh_aliases; resource" 
+alias editzshrc="vi ~/.zshrc; resource" 
+alias mysql="sudo mysql" 
+alias rezsh="exec -l zsh"
